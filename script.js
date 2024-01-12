@@ -20,11 +20,18 @@
 //     alert("Зелёный сигнал - переходим дорогу.");
 // }
 
-const signal = "green";
-if (signal === "red") {
-    alert ("Идти нельзя!");
-} else if(signal === "yellow") {
-    alert ("Приготовиться...");
-} else {
-    alert ("Переходим дорогу");
-}
+// const signal = "green";
+// if (signal === "red") {
+//     alert ("Идти нельзя!");
+// } else if(signal === "yellow") {
+//     alert ("Приготовиться...");
+// } else {
+//     alert ("Переходим дорогу");
+// }
+
+// const phrase = prompt('Скажи слово друг и заходи')
+// if (phrase === 'Друг') {
+//     alert('Привет')
+// } else {
+//     alert('Я тебя не знаю')
+// }
